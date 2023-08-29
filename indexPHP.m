@@ -1,1 +1,2 @@
 PHPnya = "Merdeka";
+CommentNya = "Ok";
